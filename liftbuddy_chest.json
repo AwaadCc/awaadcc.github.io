@@ -1,79 +1,379 @@
 {
- "selection1": [
-  {
-   "name": "Dumbbell Bench Press",
-   "url": "https://www.bodybuilding.com/exercises/dumbbell-bench-press",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-9e-dumbbell-bench-press-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Pushups",
-   "url": "https://www.bodybuilding.com/exercises/pushups",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-102a-push-up-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Close-grip bench press",
-   "url": "https://www.bodybuilding.com/exercises/close-grip-barbell-bench-press",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-82e-close-grip-bench-press-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Dumbbell Flyes",
-   "url": "https://www.bodybuilding.com/exercises/dumbbell-flyes",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-31e-dumbbell-chest-fly-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Incline dumbbell bench press",
-   "url": "https://www.bodybuilding.com/exercises/incline-dumbbell-press",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-3n-incline-dumbbell-bench-press-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Low-cable cross-over",
-   "url": "https://www.bodybuilding.com/exercises/low-cable-crossover",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-5c-low-cable-cross-over-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Barbell Bench Press - Medium Grip",
-   "url": "https://www.bodybuilding.com/exercises/barbell-bench-press-medium-grip",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-81e-bench-press-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Chest dip",
-   "url": "https://www.bodybuilding.com/exercises/dips-chest-version",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-2m-chest-dip-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Decline Dumbbell Flyes",
-   "url": "https://www.bodybuilding.com/exercises/decline-dumbbell-flyes",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-31n-decline-dumbbell-chest-fly-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Bodyweight Flyes",
-   "url": "https://www.bodybuilding.com/exercises/bodyweight-flyes",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/2019-xdb-182s-double-bar-roll-out-chest-fly-m1-600x600.jpg"
-  },
-  {
-   "name": "Incline cable chest fly",
-   "url": "https://www.bodybuilding.com/exercises/incline-cable-flye",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-10c-incline-cable-chest-fly-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Decline barbell bench press",
-   "url": "https://www.bodybuilding.com/exercises/decline-barbell-bench-press",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-34n-decline-barbell-bench-press-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Wide-grip bench press",
-   "url": "https://www.bodybuilding.com/exercises/wide-grip-barbell-bench-press",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-84e-wide-grip-bench-press-m1-square-600x600.jpg"
-  },
-  {
-   "name": "Wide-Grip Decline Barbell Bench Press",
-   "url": "https://www.bodybuilding.com/exercises/wide-grip-decline-barbell-bench-press",
-   "image": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/35/Male/m/35_1.jpg"
-  },
-  {
-   "name": "Reverse-grip incline dumbbell bench press",
-   "url": "https://www.bodybuilding.com/exercises/incline-dumbbell-press-reverse-grip",
-   "image": "https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-4n-reverse-grip-incline-dumbbell-bench-press-m1-square-600x600.jpg"
-  }
- ]
+"selection1":[
+{
+"name":"Dumbbell Bench Press",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-9e-dumbbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Pushups",
+"url":"https://www.bodybuilding.com/exercises/pushups",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-102a-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Close-grip bench press",
+"url":"https://www.bodybuilding.com/exercises/close-grip-barbell-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-82e-close-grip-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Dumbbell Flyes",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-flyes",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-31e-dumbbell-chest-fly-m1-square-600x600.jpg"
+},
+{
+"name":"Incline dumbbell bench press",
+"url":"https://www.bodybuilding.com/exercises/incline-dumbbell-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-3n-incline-dumbbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Low-cable cross-over",
+"url":"https://www.bodybuilding.com/exercises/low-cable-crossover",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-5c-low-cable-cross-over-m1-square-600x600.jpg"
+},
+{
+"name":"Barbell Bench Press - Medium Grip",
+"url":"https://www.bodybuilding.com/exercises/barbell-bench-press-medium-grip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-81e-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Chest dip",
+"url":"https://www.bodybuilding.com/exercises/dips-chest-version",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-2m-chest-dip-m1-square-600x600.jpg"
+},
+{
+"name":"Decline Dumbbell Flyes",
+"url":"https://www.bodybuilding.com/exercises/decline-dumbbell-flyes",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-31n-decline-dumbbell-chest-fly-m1-square-600x600.jpg"
+},
+{
+"name":"Bodyweight Flyes",
+"url":"https://www.bodybuilding.com/exercises/bodyweight-flyes",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/2019-xdb-182s-double-bar-roll-out-chest-fly-m1-600x600.jpg"
+},
+{
+"name":"Incline cable chest fly",
+"url":"https://www.bodybuilding.com/exercises/incline-cable-flye",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-10c-incline-cable-chest-fly-m1-square-600x600.jpg"
+},
+{
+"name":"Decline barbell bench press",
+"url":"https://www.bodybuilding.com/exercises/decline-barbell-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-34n-decline-barbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Wide-grip bench press",
+"url":"https://www.bodybuilding.com/exercises/wide-grip-barbell-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-84e-wide-grip-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Wide-Grip Decline Barbell Bench Press",
+"url":"https://www.bodybuilding.com/exercises/wide-grip-decline-barbell-bench-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/35/Male/m/35_1.jpg"
+},
+{
+"name":"Reverse-grip incline dumbbell bench press",
+"url":"https://www.bodybuilding.com/exercises/incline-dumbbell-press-reverse-grip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-4n-reverse-grip-incline-dumbbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Cable Crossover",
+"url":"https://www.bodybuilding.com/exercises/cable-crossover",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-1c-cable-cross-over-m1-square-600x600.jpg"
+},
+{
+"name":"Barbell Incline Bench Press Medium-Grip",
+"url":"https://www.bodybuilding.com/exercises/barbell-incline-bench-press-medium-grip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-42n-incline-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Incline Dumbbell Flyes",
+"url":"https://www.bodybuilding.com/exercises/incline-dumbbell-flyes",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-8n-incline-dumbbell-chest-fly-m1-square-600x600.jpg"
+},
+{
+"name":"Drop Push",
+"url":"https://www.bodybuilding.com/exercises/drop-push",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/779/Male/m/779_1.jpg"
+},
+{
+"name":"Close-grip EZ-bar bench press",
+"url":"https://www.bodybuilding.com/exercises/close-grip-ez-bar-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-93s-close-grip-ez-bar-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Incline Push-Up",
+"url":"https://www.bodybuilding.com/exercises/incline-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-18e-hands-elevated-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Neck Press",
+"url":"https://www.bodybuilding.com/exercises/neck-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/274/Male/m/274_1.jpg"
+},
+{
+"name":"Incline cable chest press",
+"url":"https://www.bodybuilding.com/exercises/incline-cable-chest-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-11c-incline-cable-chest-press-m1-square-600x600.jpg"
+},
+{
+"name":"Neutral-grip dumbbell bench press",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-bench-press-with-neutral-grip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-11e-neutral-grip-dumbbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Cable Chest Press",
+"url":"https://www.bodybuilding.com/exercises/cable-chest-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/870/Male/m/870_1.jpg"
+},
+{
+"name":"Hands-elevated push-up",
+"url":"https://www.bodybuilding.com/exercises/incline-push-up-medium",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-18e-hands-elevated-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Decline Push-Up",
+"url":"https://www.bodybuilding.com/exercises/decline-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-20e-feet-elevated-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Single-arm cable cross-over",
+"url":"https://www.bodybuilding.com/exercises/single-arm-cable-crossover",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-7c-single-arm-cable-cross-over-m1-square-600x600.jpg"
+},
+{
+"name":"Single-Arm Push-Up",
+"url":"https://www.bodybuilding.com/exercises/single-arm-push-up",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/1361/Male/m/1361_1.jpg"
+},
+{
+"name":"Leverage Incline Chest Press",
+"url":"https://www.bodybuilding.com/exercises/leverage-incline-chest-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/893/Male/m/893_1.jpg"
+},
+{
+"name":"Close push-up to wide push-up",
+"url":"https://www.bodybuilding.com/exercises/pushups-close-and-wide-hand-positions",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-105a-close-push-up-to-wide-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Butterfly",
+"url":"https://www.bodybuilding.com/exercises/butterfly",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-53m-machine-chest-fly-m1-square-600x600.jpg"
+},
+{
+"name":"Decline dumbbell bench press",
+"url":"https://www.bodybuilding.com/exercises/decline-dumbbell-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-33n-decline-dumbbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Single-arm kettlebell row",
+"url":"https://www.bodybuilding.com/exercises/one-arm-dumbbell-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-12e-single-arm-dumbbell-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Hammer Grip Incline DB Bench Press",
+"url":"https://www.bodybuilding.com/exercises/hammer-grip-incline-db-bench-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/60/Male/m/60_1.jpg"
+},
+{
+"name":"Wide-grip hands-elevated push-up",
+"url":"https://www.bodybuilding.com/exercises/incline-push-up-wide",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-19e-wide-grip-hands-elevated-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Push-Ups With Feet On An Exercise Ball",
+"url":"https://www.bodybuilding.com/exercises/push-ups-with-feet-on-an-exercise-ball",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/126/Male/m/126_1.jpg"
+},
+{
+"name":"Feet-elevated push-up",
+"url":"https://www.bodybuilding.com/exercises/push-ups-with-feet-elevated",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-20e-feet-elevated-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Leverage Chest Press",
+"url":"https://www.bodybuilding.com/exercises/leverage-chest-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-65m-machine-chest-press-m1-square-600x600.jpg"
+},
+{
+"name":"Straight-arm dumbbell pull-over",
+"url":"https://www.bodybuilding.com/exercises/straight-arm-dumbbell-pullover",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-26e-straight-arm-dumbbell-pull-over-m1-square-600x600.jpg"
+},
+{
+"name":"Decline Smith Press",
+"url":"https://www.bodybuilding.com/exercises/decline-smith-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-37t-smith-machine-decline-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Isometric Wipers",
+"url":"https://www.bodybuilding.com/exercises/isometric-wipers",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-122a-typewriter-push-up-m2-square-600x600.jpg"
+},
+{
+"name":"Cable cross-over",
+"url":"https://www.bodybuilding.com/exercises/cable-iron-cross",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-1c-cable-cross-over-m1-square-600x600.jpg"
+},
+{
+"name":"Incline Dumbbell Bench With Palms Facing In",
+"url":"https://www.bodybuilding.com/exercises/incline-dumbbell-bench-with-palms-facing-in",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/37/Male/m/37_1.jpg"
+},
+{
+"name":"Clock push-up",
+"url":"https://www.bodybuilding.com/exercises/clock-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-103a-clock-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Smith machine bench press",
+"url":"https://www.bodybuilding.com/exercises/smith-machine-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-1t-smith-machine-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Front Raise And Pullover",
+"url":"https://www.bodybuilding.com/exercises/front-raise-and-pullover",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/273/Male/m/273_1.jpg"
+},
+{
+"name":"Leverage Decline Chest Press",
+"url":"https://www.bodybuilding.com/exercises/leverage-decline-chest-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/891/Male/m/891_1.jpg"
+},
+{
+"name":"Incline Push-Up Depth Jump",
+"url":"https://www.bodybuilding.com/exercises/incline-push-up-depth-jump",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/789/Male/m/789_1.jpg"
+},
+{
+"name":"Push-Up Wide",
+"url":"https://www.bodybuilding.com/exercises/push-up-wide",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-241a-wide-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Chest Push (multiple response)",
+"url":"https://www.bodybuilding.com/exercises/chest-push-multiple-response",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/769/Male/m/769_1.jpg"
+},
+{
+"name":"Incline Dumbbell Flyes - With A Twist",
+"url":"https://www.bodybuilding.com/exercises/incline-dumbbell-flyes-with-a-twist",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/50/Male/m/50_1.jpg"
+},
+{
+"name":"Cross Over - With Bands",
+"url":"https://www.bodybuilding.com/exercises/cross-over-with-bands",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/257/Male/m/257_1.jpg"
+},
+{
+"name":"Bent-arm dumbbell pull-over",
+"url":"https://www.bodybuilding.com/exercises/bent-arm-dumbbell-pullover",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-25e-bent-arm-dumbbell-pull-over-m1-square-600x600.jpg"
+},
+{
+"name":"Machine chest press",
+"url":"https://www.bodybuilding.com/exercises/machine-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-65m-machine-chest-press-m1-square-600x600.jpg"
+},
+{
+"name":"Standing Cable Chest Press",
+"url":"https://www.bodybuilding.com/exercises/standing-cable-chest-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/919/Male/m/919_1.jpg"
+},
+{
+"name":"Close-grip dumbbell bench press",
+"url":"https://www.bodybuilding.com/exercises/close-grip-dumbbell-press",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/1611/Male/m/1611_1.jpg"
+},
+{
+"name":"Smith Machine Incline Bench Press",
+"url":"https://www.bodybuilding.com/exercises/smith-machine-incline-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-alt-4t-smith-machine-incline-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Sphinx push-up",
+"url":"https://www.bodybuilding.com/exercises/body-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-221a-sphinx-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Smith Machine Close-Grip Bench Press",
+"url":"https://www.bodybuilding.com/exercises/smith-machine-close-grip-bench-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-3t-smith-machine-close-grip-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Kettlebell plyo push-up",
+"url":"https://www.bodybuilding.com/exercises/plyo-kettlebell-pushups",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-91a-plyo-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Close-Hands Push-Up",
+"url":"https://www.bodybuilding.com/exercises/close-hands-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-104a-close-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Board bench press",
+"url":"https://www.bodybuilding.com/exercises/board-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-91s-board-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Around The Worlds",
+"url":"https://www.bodybuilding.com/exercises/around-the-worlds",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/277/Male/m/277_1.jpg"
+},
+{
+"name":"Tiger-bend push-up",
+"url":"https://www.bodybuilding.com/exercises/tiger-bend-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-121a-tiger-bend-push-up-m3-square-600x600.jpg"
+},
+{
+"name":"Barbell Bench Press-Wide Grip",
+"url":"https://www.bodybuilding.com/exercises/barbell-bench-press-wide-grip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-84e-wide-grip-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Plyo push-up",
+"url":"https://www.bodybuilding.com/exercises/plyo-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-91a-plyo-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Close-grip hands-elevated push-up",
+"url":"https://www.bodybuilding.com/exercises/incline-push-up-close-grip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-17e-close-grip-hands-elevated-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Lying cable chest fly",
+"url":"https://www.bodybuilding.com/exercises/flat-bench-cable-flyes",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-13c-lying-cable-chest-fly-m1-square-600x600.jpg"
+},
+{
+"name":"Suspended push-up",
+"url":"https://www.bodybuilding.com/exercises/suspended-push-up",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/2019-xdb-160s-suspended-push-up-m1-600x600.jpg"
+},
+{
+"name":"Wide-Grip Decline Barbell Pullover",
+"url":"https://www.bodybuilding.com/exercises/wide-grip-decline-barbell-pullover",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/275/Male/m/275_1.jpg"
+},
+{
+"name":"Smith Machine Decline Press",
+"url":"https://www.bodybuilding.com/exercises/smith-machine-decline-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-37t-smith-machine-decline-bench-press-m1-square-600x600.jpg"
+},
+{
+"name":"Single-dumbbell push-up",
+"url":"https://www.bodybuilding.com/exercises/close-grip-push-up-off-of-a-dumbbell",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-26d-single-dumbbell-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Push Up to Side Plank",
+"url":"https://www.bodybuilding.com/exercises/push-up-to-side-plank",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-97a-push-up-to-side-plank-m1-square-600x600.jpg"
+},
+{
+"name":"Isometric Chest Squeezes",
+"url":"https://www.bodybuilding.com/exercises/isometric-chest-squeezes",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/92/Male/m/92_1.jpg"
+}
+]
 }
