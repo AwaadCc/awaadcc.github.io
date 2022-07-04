@@ -1,0 +1,305 @@
+{
+"selection1":[
+{
+"name":"Incline Hammer Curls",
+"url":"https://www.bodybuilding.com/exercises/incline-hammer-curls",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_1.jpg"
+},
+{
+"name":"Triceps dip",
+"url":"https://www.bodybuilding.com/exercises/dips-triceps-version",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-1m-triceps-dip-m1-square-600x600.jpg"
+},
+{
+"name":"Decline EZ-bar skullcrusher",
+"url":"https://www.bodybuilding.com/exercises/decline-ez-bar-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-47n-decline-ez-bar-skullcrusher-m1-square-600x600.jpg"
+},
+{
+"name":"Wide-grip barbell curl",
+"url":"https://www.bodybuilding.com/exercises/wide-grip-standing-barbell-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-22b-wide-grip-barbell-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Dumbbell floor press",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-floor-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/2019-xdb-40d-dumbbell-floor-press-m1-600x600.jpg"
+},
+{
+"name":"EZ-bar spider curl",
+"url":"https://www.bodybuilding.com/exercises/spider-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-18n-barbell-spider-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Hammer Curls",
+"url":"https://www.bodybuilding.com/exercises/hammer-curls",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-7d-hammer-curl-m1-square-600x600.jpg"
+},
+{
+"name":"EZ-Bar Curl",
+"url":"https://www.bodybuilding.com/exercises/ez-bar-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/2020-xdb-46s-standing-ez-bar-curl-m1-crop-600x600.jpg"
+},
+{
+"name":"Zottman Curl",
+"url":"https://www.bodybuilding.com/exercises/zottman-curl",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/204/Male/m/204_1.jpg"
+},
+{
+"name":"Cable V-bar push-down",
+"url":"https://www.bodybuilding.com/exercises/triceps-pushdown-v-bar-attachment",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-17c-cable-v-bar-push-down-m1-square-600x600.jpg"
+},
+{
+"name":"Biceps curl to shoulder press",
+"url":"https://www.bodybuilding.com/exercises/biceps-curl-to-shoulder-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-63d-biceps-curl-to-shoulder-press-m2-square-600x600.jpg"
+},
+{
+"name":"Weighted bench dip",
+"url":"https://www.bodybuilding.com/exercises/weighted-bench-dip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-37e-weighted-bench-dip-m1-square-600x600.jpg"
+},
+{
+"name":"Barbell Curl",
+"url":"https://www.bodybuilding.com/exercises/barbell-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-19b-barbell-curl-m1-square-600x600.jpg"
+},
+{
+"name":"EZ-Bar Skullcrusher",
+"url":"https://www.bodybuilding.com/exercises/ez-bar-skullcrusher",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-94s-ez-bar-skullcrusher-m1-square-600x600.jpg"
+},
+{
+"name":"Concentration curl",
+"url":"https://www.bodybuilding.com/exercises/concentration-curls",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-8e-concentration-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Reverse Grip Triceps Pushdown",
+"url":"https://www.bodybuilding.com/exercises/reverse-grip-triceps-pushdown",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-19c-reverse-grip-cable-straight-bar-push-down-m1-square-600x600.jpg"
+},
+{
+"name":"Flexor Incline Dumbbell Curls",
+"url":"https://www.bodybuilding.com/exercises/flexor-incline-dumbbell-curls",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/285/Male/m/285_1.jpg"
+},
+{
+"name":"Machine Bicep Curl",
+"url":"https://www.bodybuilding.com/exercises/machine-bicep-curl",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/899/Male/m/899_1.jpg"
+},
+{
+"name":"Push-Ups - Close Triceps Position",
+"url":"https://www.bodybuilding.com/exercises/push-ups-close-triceps-position",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-104a-close-push-up-m1-square-600x600.jpg"
+},
+{
+"name":"Overhead cable curl",
+"url":"https://www.bodybuilding.com/exercises/overhead-cable-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/2020-xdb-136c-overhead-cable-curl-m1-600x600.jpg"
+},
+{
+"name":"Kneeling cable triceps extension",
+"url":"https://www.bodybuilding.com/exercises/kneeling-cable-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-89c-kneeling-cable-triceps-extension-m1-square-600x600.jpg"
+},
+{
+"name":"Single-arm cable triceps extension",
+"url":"https://www.bodybuilding.com/exercises/cable-one-arm-tricep-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-31c-single-arm-cable-triceps-extension-m1-square-600x600.jpg"
+},
+{
+"name":"Dumbbell Bicep Curl",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-bicep-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-2d-dumbbell-biceps-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Triceps Pushdown - Rope Attachment",
+"url":"https://www.bodybuilding.com/exercises/triceps-pushdown-rope-attachment",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-16c-cable-rope-push-down-m1-square-600x600.jpg"
+},
+{
+"name":"Seated triceps press",
+"url":"https://www.bodybuilding.com/exercises/seated-triceps-press",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-54e-seated-triceps-press-m1-square-600x600.jpg"
+},
+{
+"name":"Close-grip EZ-bar curl",
+"url":"https://www.bodybuilding.com/exercises/close-grip-ez-bar-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-47s-close-grip-ez-bar-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Incline EZ-bar skullcrusher",
+"url":"https://www.bodybuilding.com/exercises/incline-barbell-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-27n-incline-ez-bar-skullcrusher-m1-square-600x600.jpg"
+},
+{
+"name":"Decline Close-Grip Bench To Skull Crusher",
+"url":"https://www.bodybuilding.com/exercises/decline-close-grip-bench-to-skull-crusher",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/288/Male/m/288_1.jpg"
+},
+{
+"name":"Cross-body hammer curl",
+"url":"https://www.bodybuilding.com/exercises/cross-body-hammer-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-4d-cross-body-hammer-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Tricep Dumbbell Kickback",
+"url":"https://www.bodybuilding.com/exercises/tricep-dumbbell-kickback",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-76d-single-arm-triceps-kick-back-m2-square-600x600.jpg"
+},
+{
+"name":"Dip Machine",
+"url":"https://www.bodybuilding.com/exercises/dip-machine",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/146/Male/m/146_1.jpg"
+},
+{
+"name":"Preacher Curl",
+"url":"https://www.bodybuilding.com/exercises/preacher-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-55s-ez-bar-preacher-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Standing Dumbbell Triceps Extension",
+"url":"https://www.bodybuilding.com/exercises/standing-dumbbell-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/june/345_1.jpg"
+},
+{
+"name":"Barbell Curls Lying Against An Incline",
+"url":"https://www.bodybuilding.com/exercises/barbell-curls-lying-against-an-incline",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/300/Male/m/300_1.jpg"
+},
+{
+"name":"Seated Close-Grip Concentration Barbell Curl",
+"url":"https://www.bodybuilding.com/exercises/seated-close-grip-concentration-barbell-curl",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/309/Male/m/309_1.jpg"
+},
+{
+"name":"Reverse Barbell Preacher Curls",
+"url":"https://www.bodybuilding.com/exercises/reverse-barbell-preacher-curls",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-21b-reverse-grip-barbell-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Parallel Bar Dip",
+"url":"https://www.bodybuilding.com/exercises/parallel-bar-dip",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-1m-triceps-dip-m1-square-600x600.jpg"
+},
+{
+"name":"Ring dip",
+"url":"https://www.bodybuilding.com/exercises/ring-dips",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/2019-xdb-188s-ring-dip-m1-600x600.jpg"
+},
+{
+"name":"Standing One-Arm Cable Curl",
+"url":"https://www.bodybuilding.com/exercises/standing-one-arm-cable-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-27c-single-arm-cable-biceps-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Double-arm triceps kick-back",
+"url":"https://www.bodybuilding.com/exercises/standing-bent-over-two-arm-dumbbell-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-75d-double-arm-triceps-kick-back-m2-square-600x600.jpg"
+},
+{
+"name":"Feet-elevated bench dip",
+"url":"https://www.bodybuilding.com/exercises/bench-dips",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-23e-feet-elevated-bench-dip-m1-square-600x600.jpg"
+},
+{
+"name":"Dumbbell Alternate Bicep Curl",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-alternate-bicep-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-1d-alternating-biceps-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Single-arm dumbbell preacher curl",
+"url":"https://www.bodybuilding.com/exercises/one-arm-dumbbell-preacher-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-53s-single-arm-dumbbell-preacher-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Alternate Incline Dumbbell Curl",
+"url":"https://www.bodybuilding.com/exercises/alternate-incline-dumbbell-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-26n-alternating-incline-dumbbell-biceps-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Standing concentration curl",
+"url":"https://www.bodybuilding.com/exercises/standing-concentration-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-23d-standing-concentration-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Bench Press - Powerlifting",
+"url":"https://www.bodybuilding.com/exercises/bench-press-powerlifting",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/663/Male/m/663_1.jpg"
+},
+{
+"name":"Behind-the-head skullcrusher",
+"url":"https://www.bodybuilding.com/exercises/lying-close-grip-barbell-triceps-extension-behind-the-head",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-56e-behind-the-head-skullcrusher-m1-square-600x600.jpg"
+},
+{
+"name":"Reverse Cable Curl",
+"url":"https://www.bodybuilding.com/exercises/reverse-cable-curl",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/141/Male/m/141_1.jpg"
+},
+{
+"name":"Alternating incline dumbbell biceps curl",
+"url":"https://www.bodybuilding.com/exercises/incline-dumbbell-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-26n-alternating-incline-dumbbell-biceps-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Alternate Hammer Curl",
+"url":"https://www.bodybuilding.com/exercises/alternate-hammer-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-3d-alternating-hammer-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Triceps Pushdown",
+"url":"https://www.bodybuilding.com/exercises/triceps-pushdown",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-17c-cable-v-bar-push-down-m1-square-600x600.jpg"
+},
+{
+"name":"Low cable overhead triceps extension",
+"url":"https://www.bodybuilding.com/exercises/triceps-overhead-extension-with-rope",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-29c-low-cable-overhead-triceps-extension-m1-square-600x600.jpg"
+},
+{
+"name":"Seated dumbbell biceps curl",
+"url":"https://www.bodybuilding.com/exercises/seated-dumbbell-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-4e-seated-dumbbell-biceps-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Preacher Hammer Dumbbell Curl",
+"url":"https://www.bodybuilding.com/exercises/preacher-hammer-dumbbell-curl",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/155/Male/m/155_1.jpg"
+},
+{
+"name":"Standing One-Arm Dumbbell Curl Over Incline Bench",
+"url":"https://www.bodybuilding.com/exercises/standing-one-arm-dumbbell-curl-over-incline-bench",
+"image":"https://www.bodybuilding.com/exercises/exerciseImages/sequences/339/Male/m/339_1.jpg"
+},
+{
+"name":"Close-grip barbell curl",
+"url":"https://www.bodybuilding.com/exercises/close-grip-standing-barbell-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-20b-close-grip-barbell-curl-m1-square-600x600.jpg"
+},
+{
+"name":"Standing barbell overhead triceps extension",
+"url":"https://www.bodybuilding.com/exercises/standing-overhead-barbell-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-60b-standing-barbell-overhead-triceps-extension-m1-square-600x600.jpg"
+},
+{
+"name":"Lying cable triceps extension",
+"url":"https://www.bodybuilding.com/exercises/cable-lying-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-62c-lying-cable-triceps-extension-m1-square-600x600.jpg"
+},
+{
+"name":"Single-arm dumbbell triceps extension",
+"url":"https://www.bodybuilding.com/exercises/dumbbell-one-arm-triceps-extension",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-130d-single-arm-dumbbell-triceps-extension-m2-square-600x600.jpg"
+},
+{
+"name":"Standing Biceps Cable Curl",
+"url":"https://www.bodybuilding.com/exercises/standing-biceps-cable-curl",
+"image":"https://www.bodybuilding.com/images/2020/xdb/cropped/xdb-22c-cable-straight-bar-biceps-curl-m1-square-600x600.jpg"
+}
+]
+}
+
