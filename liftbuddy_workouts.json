@@ -1,19 +1,37 @@
 {
 "selection1":[
 {
-"name":"8 Week Mass Building Hypertrophy Workout",
+"name":"8 Week Hypertrophy Workout",
 "url":"https://www.muscleandstrength.com/workouts/8-week-hypertrophy-workout",
 "image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/muscular-guy-doing-cable-flys.jpg?itok=cSCNyLEj",
 "image_url":"https://www.muscleandstrength.com/workouts/8-week-hypertrophy-workout"
 },
 {
-"name":"Women's 3-Day Glute Building Workout",
+"name":"Women's 3-Day Glute Workout",
 "url":"https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout",
 "image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/fit-female-doing-glute-workouts-outside.jpg?itok=nGlemk-s",
 "image_url":"https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout"
 },
 {
-"name":"HIT3 Training at Home: 8 Week Muscle-Building Program",
+"name":"HIT3 Training at Home",
+"url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout",
+"image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/hit3_home_workout_-_1200x630.jpg?itok=hEM4J8Pc",
+"image_url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout"
+},
+{
+"name":"8 Week Hypertrophy Workout",
+"url":"https://www.muscleandstrength.com/workouts/8-week-hypertrophy-workout",
+"image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/muscular-guy-doing-cable-flys.jpg?itok=cSCNyLEj",
+"image_url":"https://www.muscleandstrength.com/workouts/8-week-hypertrophy-workout"
+},
+{
+"name":"Women's 3-Day Glute Workout",
+"url":"https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout",
+"image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/fit-female-doing-glute-workouts-outside.jpg?itok=nGlemk-s",
+"image_url":"https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout"
+},
+{
+"name":"HIT3 Training at Home",
 "url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout",
 "image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/hit3_home_workout_-_1200x630.jpg?itok=hEM4J8Pc",
 "image_url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout"
