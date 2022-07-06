@@ -1,0 +1,35 @@
+{
+"selection1":[
+	{
+	"name":"8 Week Mass Building Hypertrophy Workout",
+	"url":"https://www.muscleandstrength.com/workouts/8-week-hypertrophy-workout",
+	"image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/muscular-guy-doing-cable-flys.jpg?itok=cSCNyLEj",
+	},
+	{
+	"name":"Women's 3-Day Glute Building Workout",
+	"url":"https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout",
+	"image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/fit-female-doing-glute-workouts-outside.jpg?itok=nGlemk-s",
+	},
+	{
+	"name":"HIT3 Training at Home",
+	"url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout",
+	"image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/hit3_home_workout_-_1200x630.jpg?itok=hEM4J8Pc",
+	},
+	{
+	"name":"8 Week Power Physique Workout",
+	"url":"https://www.muscleandstrength.com/workouts/power-physique-8-week-program",
+	"image":"https://cdn.muscleandstrength.com/sites/default/files/field/feature-image/workout/power_physique_-_800x500.jpg",
+	},
+	{
+	"name":"4 Day Barbell Only Workout",
+	"url":"https://www.muscleandstrength.com/workouts/4-day-barbell-only-workout",
+	"image":"https://cdn.muscleandstrength.com/sites/default/files/field/feature-image/workout/deadlift800.jpg",
+	},
+	{
+	"name":"Kettlebell Ab Workout",
+	"url":"https://www.muscleandstrength.com/workouts/12-week-kettlebell-ab-workout",
+	"image":"https://cdn.muscleandstrength.com/sites/default/files/field/feature-image/workout/beachkettlebell800.jpg",
+	}
+ ]
+}
+
