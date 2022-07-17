@@ -1,6 +1,4 @@
 {
-"sources": [
-	{
 	"name":"dovShop Source",
 	"desc":"Official Source For dovShop",
 	"url":"https://awaadcc.github.io/liftbuddy.html",
@@ -13,8 +11,8 @@
 			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
 		}
 	]
-	}
-	{
+},
+{
 	"name":"Test Source",
 	"desc":"Test Source For dovShop",
 	"url":"https://awaadcc.github.io/liftbuddy.html",
@@ -26,8 +24,7 @@
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
 		}
-	],
-	}
-]
+	]
 }
+
 
