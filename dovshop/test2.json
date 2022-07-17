@@ -1,0 +1,19 @@
+{
+"sources": [
+	{
+	"name":"2nd Test Source",
+	"desc":"2nd Test Source For dovShop",
+	"url":"https://awaadcc.github.io/liftbuddy.html",
+	"image":"https://icon-library.com/images/ios-8-app-icon/ios-8-app-icon-5.jpg",
+	"packages":[
+		{
+			"name":"2nd App",
+			"desc":"App Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://cdn.kapwing.com/video_image-vLPEwxx8O.jpeg"
+		}
+	]
+	}
+]
+}
+

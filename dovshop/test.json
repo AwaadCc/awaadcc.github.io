@@ -7,10 +7,10 @@
 	"image":"https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png",
 	"packages":[
 		{
-			"name":"App Name",
-			"desc":"App Desc",
+			"name":"Test App",
+			"desc":"App for testing",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
-			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
+			"image":"https://i.pinimg.com/736x/79/8b/28/798b28366d17a0b8a807dd9ee089db28.jpg"
 		}
 	]
 	}
