@@ -1,16 +1,18 @@
 {
-"selection1":[
+"dovshop":[
 	{
 		"name":"dovShop Source",
 		"desc":"Official Source For dovShop",
 		"url":"https://awaadcc.github.io/liftbuddy.html",
 		"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
-	},
+	}
+],
+"test":[
 	{
-		"name":"dovShop Source",
+		"name":"Test Source",
 		"desc":"Official Source For dovShop",
 		"url":"https://awaadcc.github.io/liftbuddy.html",
-		"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
+		"image":"https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png"
 	}
 ]
 }
