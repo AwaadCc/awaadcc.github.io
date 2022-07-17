@@ -1,19 +1,29 @@
 {
-"dovshop":[
-	{
-		"name":"dovShop Source",
-		"desc":"Official Source For dovShop",
-		"url":"https://awaadcc.github.io/liftbuddy.html",
-		"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
-	}
-],
-"test":[
-	{
-		"name":"Test Source",
-		"desc":"Official Source For dovShop",
-		"url":"https://awaadcc.github.io/liftbuddy.html",
-		"image":"https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png"
-	}
-]
+	"name":"dovShop Source",
+	"desc":"Official Source For dovShop",
+	"url":"https://awaadcc.github.io/liftbuddy.html",
+	"image":"https://awaadcc.github.io/images/liftbuddy.jpg",
+	"packages":[
+		{
+			"name":"App Name",
+			"desc":"App Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
+		}
+	],
+	"name":"Test Source",
+	"desc":"Test Source For dovShop",
+	"url":"https://awaadcc.github.io/liftbuddy.html",
+	"image":"https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png",
+	"packages":[
+		{
+			"name":"App Name",
+			"desc":"App Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
+		}
+	],
+
+
 }
 
