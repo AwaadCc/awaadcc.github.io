@@ -15,12 +15,34 @@
 	],
 	"changelog":[
 		{
-			"changes":"test 1 change 2",
-			"desc":"Added changelog functionality"
+			"changes":"Test Updates",
+			"name":"testOne",
+			"desc":"Resolved minor bugs"
 		},
 		{
-			"changes":"test 1 change 2",
-			"desc":"Fixed bugs with adding sources"
+			"changes":"Added Test",
+			"name":"testOne",
+			"desc":"Added Test functionality"
+		},		
+		{
+			"changes":"Improved Stability of Test",
+			"name":"testOne",
+			"desc":"Increased Test with loading and storing sources"
+		},
+		{
+			"changes":"Test Sources",
+			"name":"testOne",
+			"desc":"Added Test functionality"
+		},		
+		{
+			"changes":"Fixed Test for Modals",
+			"name":"testOne",
+			"desc":"Test issues with loading modals"
+		},
+		{
+			"changes":"Added Test Tab",
+			"name":"testOne",
+			"desc":"Test the browse tab"
 		}
 	]
 	}
