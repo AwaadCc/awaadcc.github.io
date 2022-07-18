@@ -13,7 +13,7 @@
 			"image":"https://cdn.kapwing.com/video_image-vLPEwxx8O.jpeg"
 		}
 	],
-	"chanelog":[
+	"changelog":[
 		{
 			"changes":"test 2 change 2",
 			"desc":"Added changelog functionality"

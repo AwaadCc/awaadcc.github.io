@@ -13,7 +13,7 @@
 			"image":"https://i.pinimg.com/736x/79/8b/28/798b28366d17a0b8a807dd9ee089db28.jpg"
 		}
 	],
-	"chanelog":[
+	"changelog":[
 		{
 			"changes":"test 1 change 2",
 			"desc":"Added changelog functionality"

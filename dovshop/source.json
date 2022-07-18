@@ -25,7 +25,7 @@
 			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
 		}
 	],
-	"chanelog":[
+	"changelog":[
 		{
 			"changes":"dovStore Updates",
 			"desc":"Added changelog functionality"
