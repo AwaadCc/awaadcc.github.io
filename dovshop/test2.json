@@ -15,16 +15,34 @@
 	],
 	"changelog":[
 		{
-			"changes":"test 2 change 3",
-			"desc":"Added changelog functionality"
+			"changes":"Test2 Updates",
+			"name":"testTwo",
+			"desc":"Resolved minor bugs"
 		},
 		{
-			"changes":"test 2 change 2",
-			"desc":"Fixed bugs with adding sources"
+			"changes":"Added Test2",
+			"name":"testTwo",
+			"desc":"Added Test2 functionality"
+		},		
+		{
+			"changes":"Improved Stability of Test2",
+			"name":"testTwo",
+			"desc":"Increased Test2 with loading and storing sources"
 		},
 		{
-			"changes":"test 2 change 1",
-			"desc":"Fixed bugs with adding sources"
+			"changes":"Test2 Sources",
+			"name":"testTwo",
+			"desc":"Added Test functionality"
+		},		
+		{
+			"changes":"Fixed Test2 for Modals",
+			"name":"testTwo",
+			"desc":"Test issues with loading modals"
+		},
+		{
+			"changes":"Added Test2 Tab",
+			"name":"testTwo",
+			"desc":"Test the browse tab"
 		}
 	]
 	}
