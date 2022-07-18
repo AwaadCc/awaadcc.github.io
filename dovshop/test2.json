@@ -12,6 +12,16 @@
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://cdn.kapwing.com/video_image-vLPEwxx8O.jpeg"
 		}
+	],
+	"chanelog":[
+		{
+			"changes":"test 2 change 2",
+			"desc":"Added changelog functionality"
+		},
+		{
+			"changes":"test 2 change 1",
+			"desc":"Fixed bugs with adding sources"
+		}
 	]
 	}
 ]
