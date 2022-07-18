@@ -7,10 +7,22 @@
 	"image":"https://icon-library.com/images/ios-8-app-icon/ios-8-app-icon-5.jpg",
 	"packages":[
 		{
-			"name":"2nd App",
-			"desc":"App Desc",
+			"name":"Test2 App 1",
+			"desc":"Test2 App 1 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
-			"image":"https://cdn.kapwing.com/video_image-vLPEwxx8O.jpeg"
+			"image":"https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/Photos/@PNG.png"
+		},
+		{
+			"name":"Test2 App 2",
+			"desc":"Test2 App 2 Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQnK4_ee9lVApImxiCqy7zILr1nkgC3n61OWXAkN3_FxGJlScbF_DP7HkGpI3is7bwWQ&usqp=CAU"
+		},
+		{
+			"name":"Test2 App 3",
+			"desc":"Test2 App 3 Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Apple_Home_%28iOS%29.png"
 		}
 	],
 	"changelog":[

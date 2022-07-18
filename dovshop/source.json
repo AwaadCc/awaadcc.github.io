@@ -7,22 +7,22 @@
 	"image":"https://awaadcc.github.io/images/liftbuddy.jpg",
 	"packages":[
 		{
-			"name":"App Name",
-			"desc":"App Desc",
+			"name":"App 1",
+			"desc":"App 1 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
 		},
 		{
-			"name":"App Name",
-			"desc":"App Desc",
+			"name":"App 2",
+			"desc":"App 2 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/Safari/@SVG.svg"
 		},
 		{
-			"name":"App Name",
-			"desc":"App Desc",
+			"name":"App 3",
+			"desc":"App 3 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
-			"image":"https://awaadcc.github.io/images/liftbuddy.jpg"
+			"image":"https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/AppStore/@PNG.png"
 		}
 	],
 	"changelog":[
