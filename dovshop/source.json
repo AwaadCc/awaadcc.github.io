@@ -28,10 +28,12 @@
 	"changelog":[
 		{
 			"changes":"dovStore Updates",
+			"name":"Updates testing",
 			"desc":"Added changelog functionality"
 		},
 		{
 			"changes":"dovStore Updates",
+			"name":"testing Updates",
 			"desc":"Fixed bugs with adding sources"
 		}
 	]
