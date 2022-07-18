@@ -27,14 +27,34 @@
 	],
 	"changelog":[
 		{
-			"changes":"dovStore Updates",
-			"name":"Updates testing",
-			"desc":"Added changelog functionality"
+			"changes":"Minor Updates",
+			"name":"dovStore",
+			"desc":"Resolved minor bugs"
 		},
 		{
-			"changes":"dovStore Updates",
-			"name":"testing Updates",
-			"desc":"Fixed bugs with adding sources"
+			"changes":"Added Changelog",
+			"name":"dovStore",
+			"desc":"Added changelog functionality"
+		},		
+		{
+			"changes":"Improved Stability of Sources",
+			"name":"dovStore",
+			"desc":"Increased reliability with loading and storing sources"
+		},
+		{
+			"changes":"Added Sources",
+			"name":"dovStore",
+			"desc":"Added sources functionality"
+		},		
+		{
+			"changes":"Fixed Bugs for Modals",
+			"name":"dovStore",
+			"desc":"Resolved issues with loading modals"
+		},
+		{
+			"changes":"Added Browse Tab",
+			"name":"dovStore",
+			"desc":"Added the browse tab"
 		}
 	]
 	}
