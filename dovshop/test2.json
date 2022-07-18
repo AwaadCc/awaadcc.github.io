@@ -15,8 +15,12 @@
 	],
 	"changelog":[
 		{
-			"changes":"test 2 change 2",
+			"changes":"test 2 change 3",
 			"desc":"Added changelog functionality"
+		},
+		{
+			"changes":"test 2 change 2",
+			"desc":"Fixed bugs with adding sources"
 		},
 		{
 			"changes":"test 2 change 1",
