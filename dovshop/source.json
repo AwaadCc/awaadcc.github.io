@@ -27,6 +27,9 @@
 	],
 	"changelog":[
 		{
+			"image": "https://awaadcc.github.io/images/dovshop/icon.png"
+		},
+		{
 			"changes":"Minor Updates",
 			"name":"dovStore",
 			"desc":"Resolved minor bugs"
