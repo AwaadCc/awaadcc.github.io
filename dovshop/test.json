@@ -27,6 +27,9 @@
 	],
 	"changelog":[
 		{
+			"image": "https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png"
+		},
+		{
 			"changes":"Test Updates",
 			"name":"testOne",
 			"desc":"Resolved minor bugs"

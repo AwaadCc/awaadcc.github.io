@@ -27,6 +27,9 @@
 	],
 	"changelog":[
 		{
+			"image": "https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/Photos/@PNG.png"
+		},
+		{
 			"changes":"Test2 Updates",
 			"name":"testTwo",
 			"desc":"Resolved minor bugs"
