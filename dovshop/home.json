@@ -50,5 +50,32 @@
 			"icon": "https://appdb.to/favicon-appdb.png",
 			"url": "https://appdb.to"
 		}
+	],
+	"topapps": [
+		{
+			"name": "uYou",
+			"desc": "Youtube app but better!",
+			"icon": "https://awaadcc.github.io/images/dovshop/uyou_icon.jpeg",
+			"url": "https://awaadcc.github.io/dovshop"
+		},
+		{
+			"name": "Filza Escaped",
+			"desc": "The best file manager",
+			"icon": "https://tweak-box.com/wp-content/uploads/2019/04/filza-1.png",
+			"url": "https://awaadcc.github.io/dovshop"
+		},
+		{
+			"name": "LiftBuddy",
+			"desc": "Your new workout tool!",
+			"icon": "https://awaadcc.github.io/images/liftbuddy.jpg",
+			"url": "https://awaadcc.github.io/liftbuddy"
+		},
+		{
+			"name": "AltStore",
+			"desc": "Recommended Package Installer",
+			"icon": "https://pbs.twimg.com/profile_images/1177457687014985729/3rleupvs_400x400.png",
+			"url": "http://altstore.io"
+		}
+
 	]
 }
