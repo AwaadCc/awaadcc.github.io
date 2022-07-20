@@ -1,0 +1,28 @@
+{
+	"cards": [
+		{
+			"name": "uYou",
+			"desc": "Youtube app but better!",
+			"icon": "https://awaadcc.github.io/images/dovshop/uyou_icon.jpeg",
+			"banner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg",
+			"url": "https://awaadcc.github.io/dovshop"
+
+		},
+			{
+			"name": "Filza Escaped",
+			"desc": "The best file manager",
+			"icon": "https://tweak-box.com/wp-content/uploads/2019/04/filza-1.png",
+			"banner": "https://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png",
+			"url": "https://awaadcc.github.io/dovshop"
+
+		},
+		{
+			"name": "LiftBuddy",
+			"desc": "Your new workout tool!",
+			"icon": "https://awaadcc.github.io/images/liftbuddy.jpg",
+			"banner": "https://awaadcc.github.io/images/dovshop/liftbuddy_banner.jpg",
+			"url": "https://awaadcc.github.io/liftbuddy"
+
+		}
+	]
+}
