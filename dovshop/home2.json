@@ -1,0 +1,18 @@
+{
+	"selection": [
+		{
+			"name": "uYou",
+			"desc": "Youtube app but better!",
+			"icon": "https://awaadcc.github.io/images/dovshop/uyou_icon.jpeg",
+			"banner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg",
+			"url": "https://awaadcc.github.io/dovshop"
+		},
+		{
+			"name": "uYou2",
+			"desc": "Youtube app but better!",
+			"icon": "https://awaadcc.github.io/images/dovshop/uyou_icon.jpeg",
+			"banner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg",
+			"url": "https://awaadcc.github.io/dovshop"
+		}
+	]
+}
