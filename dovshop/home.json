@@ -24,5 +24,31 @@
 			"url": "https://awaadcc.github.io/liftbuddy"
 
 		}
+	],
+	"tools": [
+		{
+			"name": "AltStore",
+			"desc": "Recommended Package Installer",
+			"icon": "https://pbs.twimg.com/profile_images/1177457687014985729/3rleupvs_400x400.png",
+			"url": "http://altstore.io"
+		},
+		{
+			"name": "Sideloady",
+			"desc": "Also great but only on computer",
+			"icon": "https://1.bp.blogspot.com/-kjBp3d8h40Y/YEOKFKDATjI/AAAAAAAAGZA/-ElcY4h9zWosnTpiptJkMsRo1ocFUeE4ACLcBGAsYHQ/s500/Untitled-design--4-.png",
+			"url": "http://sideloadly.io"
+		},
+		{
+			"name": "BuildStore",
+			"desc": "Powerful but expensive",
+			"icon": "https://s3.amazonaws.com/cdn.builds.io/static/assets/favicon-200.png",
+			"url": "http://builds.io"
+		},
+		{
+			"name": "AppDB",
+			"desc": "Amazing but slightly complicated",
+			"icon": "https://appdb.to/favicon-appdb.png",
+			"url": "https://appdb.to"
+		}
 	]
 }
