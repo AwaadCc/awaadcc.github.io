@@ -11,21 +11,21 @@
 			"desc":"Test2 App 1 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/Photos/@PNG.png",
-			"searchbanner": "tps://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
+			"searchbanner": "https://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
 		},
 		{
 			"name":"Test2 App 2",
 			"desc":"Test2 App 2 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQnK4_ee9lVApImxiCqy7zILr1nkgC3n61OWXAkN3_FxGJlScbF_DP7HkGpI3is7bwWQ&usqp=CAU",
-			"searchbanner": "tps://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
+			"searchbanner": "https://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
 		},
 		{
 			"name":"Test2 App 3",
 			"desc":"Test2 App 3 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Apple_Home_%28iOS%29.png",
-			"searchbanner": "tps://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
+			"searchbanner": "https://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
 		}
 	],
 	"changelog":[
