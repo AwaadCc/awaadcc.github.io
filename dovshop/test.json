@@ -10,19 +10,22 @@
 			"name":"Test App 1",
 			"desc":"Test App 1 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
-			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTxNmZ7tu0_WPSa23QXu2_8iP3Zv-pVJFhg&usqp=CAU"
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTxNmZ7tu0_WPSa23QXu2_8iP3Zv-pVJFhg&usqp=CAU",
+			"search-banner": "tps://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
 		},
 		{
 			"name":"Test App 2",
 			"desc":"Test App 2 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
-			"image":"https://i.pinimg.com/474x/92/83/e2/9283e274a9ea8bec4842f42839fdb0ed.jpg"
+			"image":"https://i.pinimg.com/474x/92/83/e2/9283e274a9ea8bec4842f42839fdb0ed.jpg",
+			"search-banner": "tps://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
 		},
 		{
 			"name":"Test App 3",
 			"desc":"Test App 3 Desc",
 			"url":"https://awaadcc.github.io/liftbuddy.html",
-			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fOWYpGIEAJsYP7Njjq5pJLpr8kdgaHqL9i_XVUO8I_BkwwpDFnExSwwrkjFZoV4fFVk&usqp=CAU"
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fOWYpGIEAJsYP7Njjq5pJLpr8kdgaHqL9i_XVUO8I_BkwwpDFnExSwwrkjFZoV4fFVk&usqp=CAU",
+			"search-banner": "tps://kiengk0eng.github.io/assets/com.tigisoftware.filza/banner.png"
 		}
 	],
 	"changelog":[
