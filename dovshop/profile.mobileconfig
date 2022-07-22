@@ -2,6 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>WARNING: TO REMOVE APP YOU MUST DELETE THIS PROFILE</string>
+	</dict>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -14404,7 +14409,7 @@
 			<key>IgnoreManifestScope</key>
 			<true/>
 			<key>IsRemovable</key>
-			<true/>
+			<false/>
 			<key>Label</key>
 			<string>dovShop</string>
 			<key>PayloadDescription</key>
@@ -14412,29 +14417,33 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.64E1A160-2171-4EE2-819F-B04C317627D2</string>
+			<string>com.apple.webClip.managed.410A5F88-0152-43D9-AEF6-14446432297B</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>64E1A160-2171-4EE2-819F-B04C317627D2</string>
+			<string>410A5F88-0152-43D9-AEF6-14446432297B</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>192.168.0.108:8080</string>
+			<string>https://dovshop-build.netlify.app</string>
 		</dict>
 	</array>
+	<key>PayloadDescription</key>
+	<string>Installer for the dovShop Package Manager</string>
 	<key>PayloadDisplayName</key>
-	<string>dovShop Test Profile</string>
+	<string>dovShop Installer</string>
 	<key>PayloadIdentifier</key>
-	<string>Awaads-MacBook-Pro.26691E49-F4BF-41D2-ACBE-5D83A7361F70</string>
+	<string>Awaads-MacBook-Pro.D3982305-ACEA-4C6A-8985-26C6D53F62E3</string>
+	<key>PayloadOrganization</key>
+	<string>AwaadCc</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>4BD7457F-9315-460A-9B22-1D8BC7105F60</string>
+	<string>128647B9-D396-4138-961A-8FCE6DE5F77B</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
