@@ -64,13 +64,13 @@
 			"name": "uYou",
 			"desc": "Youtube app but better!",
 			"icon": "https://awaadcc.github.io/images/dovshop/uyou_icon.jpeg",
-			"url": "https://awaadcc.github.io/dovshop"
+			"url": "https://awaadcc.github.io/dovshop/dl_uyou"
 		},
 		{
 			"name": "Filza Escaped",
 			"desc": "The best file manager",
 			"icon": "https://tweak-box.com/wp-content/uploads/2019/04/filza-1.png",
-			"url": "https://awaadcc.github.io/dovshop"
+			"url": "https://awaadcc.github.io/dovshop/dl_filza"
 		},
 		{
 			"name": "LiftBuddy",
