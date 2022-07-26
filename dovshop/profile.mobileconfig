@@ -14435,7 +14435,7 @@
 	<key>PayloadDisplayName</key>
 	<string>dovShop Installer</string>
 	<key>PayloadIdentifier</key>
-	<string>Awaads-MacBook-Pro.D3982305-ACEA-4C6A-8985-26C6D53F62E3</string>
+	<string>com.AwaadCc.dovshop</string>
 	<key>PayloadOrganization</key>
 	<string>AwaadCc</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -14443,7 +14443,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>56DC0164-9306-4CB8-AA3D-DF70C4526A87</string>
+	<string>EB3AC0E6-8C0F-49FD-87A8-9AA918A4F227</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
