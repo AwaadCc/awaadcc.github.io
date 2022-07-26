@@ -14407,9 +14407,9 @@
 			AAAASUVORK5CYII=
 			</data>
 			<key>IgnoreManifestScope</key>
-			<true/>
-			<key>IsRemovable</key>
 			<false/>
+			<key>IsRemovable</key>
+			<true/>
 			<key>Label</key>
 			<string>dovShop</string>
 			<key>PayloadDescription</key>
@@ -14417,11 +14417,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.410A5F88-0152-43D9-AEF6-14446432297B</string>
+			<string>com.apple.webClip.managed.29E97AF3-B6EE-4477-80BB-A8829B7A0309</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>410A5F88-0152-43D9-AEF6-14446432297B</string>
+			<string>29E97AF3-B6EE-4477-80BB-A8829B7A0309</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -14443,7 +14443,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>128647B9-D396-4138-961A-8FCE6DE5F77B</string>
+	<string>56DC0164-9306-4CB8-AA3D-DF70C4526A87</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
