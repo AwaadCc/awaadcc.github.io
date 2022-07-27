@@ -26,11 +26,23 @@
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fOWYpGIEAJsYP7Njjq5pJLpr8kdgaHqL9i_XVUO8I_BkwwpDFnExSwwrkjFZoV4fFVk&usqp=CAU",
 			"searchbanner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg"
+		},
+		{
+			"name":"Test App 4",
+			"desc":"Test App 4 Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://awaadcc.github.io/images/dovshop/icon.png",
+			"searchbanner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg"
 		}
 	],
 	"changelog":[
 		{
 			"image": "https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png"
+		},
+		{
+			"changes":"Added Realtime Chanhes",
+			"name":"testOne",
+			"desc":"Can update sources w/o removing"
 		},
 		{
 			"changes":"Test Updates",
