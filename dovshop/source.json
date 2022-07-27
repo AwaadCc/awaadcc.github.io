@@ -33,6 +33,11 @@
 			"image": "https://awaadcc.github.io/images/dovshop/icon.png"
 		},
 		{
+			"changes":"Added realtime changes",
+			"name":"dovStore",
+			"desc":"Pulls source changes w/o needing to reinstall source"
+		},
+		{
 			"changes":"Minor Updates",
 			"name":"dovStore",
 			"desc":"Resolved minor bugs"
