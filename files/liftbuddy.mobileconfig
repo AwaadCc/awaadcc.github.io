@@ -14344,7 +14344,7 @@
 			RU5ErkJggg==
 			</data>
 			<key>IgnoreManifestScope</key>
-			<false/>
+			<true/>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
@@ -14354,11 +14354,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.FA18A285-08EC-4731-901C-F9D6A1BFF0D3</string>
+			<string>com.apple.webClip.managed.D206F711-096F-40F2-964D-ACC33EAF9E50</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>FA18A285-08EC-4731-901C-F9D6A1BFF0D3</string>
+			<string>D206F711-096F-40F2-964D-ACC33EAF9E50</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -14378,7 +14378,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>41DECAF9-DEF9-4A9B-8A8E-BD72996CA977</string>
+	<string>F529004F-6D6B-4D64-9C6D-A1AFDF8066DC</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
