@@ -14344,7 +14344,7 @@
 			RU5ErkJggg==
 			</data>
 			<key>IgnoreManifestScope</key>
-			<true/>
+			<false/>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
@@ -14354,17 +14354,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.75310AAD-7DBF-414C-8E0A-5B1A061C4884</string>
+			<string>com.apple.webClip.managed.1490AC99-AD20-48F9-A7B8-49460DCCDE38</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>75310AAD-7DBF-414C-8E0A-5B1A061C4884</string>
+			<string>1490AC99-AD20-48F9-A7B8-49460DCCDE38</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
-			<true/>
+			<false/>
 			<key>URL</key>
-			<string>https://master--liftbuddy-build.netlify.app/</string>
+			<string>https://liftbuddy-build.netlify.app/</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
@@ -14378,7 +14378,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>CA573E55-7633-4C9C-9721-920F45DFE64F</string>
+	<string>640BCD1A-61FE-41E1-8A29-0B6C9CEF20CC</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
