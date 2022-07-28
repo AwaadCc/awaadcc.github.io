@@ -14354,17 +14354,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.D206F711-096F-40F2-964D-ACC33EAF9E50</string>
+			<string>com.apple.webClip.managed.75310AAD-7DBF-414C-8E0A-5B1A061C4884</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>D206F711-096F-40F2-964D-ACC33EAF9E50</string>
+			<string>75310AAD-7DBF-414C-8E0A-5B1A061C4884</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://62e1f2a1e6a90900081cd4c5--liftbuddy-build.netlify.app/</string>
+			<string>https://master--liftbuddy-build.netlify.app/</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
@@ -14378,7 +14378,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>F529004F-6D6B-4D64-9C6D-A1AFDF8066DC</string>
+	<string>CA573E55-7633-4C9C-9721-920F45DFE64F</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
