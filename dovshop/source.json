@@ -26,6 +26,13 @@
 			"url":"https://awaadcc.github.io/liftbuddy.html",
 			"image":"https://aroundsketch.github.io/Apple-App-Icons/App%20Icon/Apple/AppStore/@PNG.png",
 			"searchbanner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg"
+		},
+		{
+			"name":"App 4",
+			"desc":"App 4 Desc",
+			"url":"https://awaadcc.github.io/liftbuddy.html",
+			"image":"https://awaadcc.github.io/images/dovshop/icon.png",
+			"searchbanner": "https://awaadcc.github.io/images/dovshop/uyou_banner.jpeg"
 		}
 	],
 	"changelog":[
