@@ -1,2 +1,4 @@
 # awaadcc.github.io
- My Website!
+Welcome to my websites github page!
+
+There is not much but feel free to explore the code and my other projects!
