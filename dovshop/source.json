@@ -40,6 +40,11 @@
 			"image": "https://awaadcc.github.io/images/dovshop/icon.png"
 		},
 		{
+			"changes":"Fixed refresh button",
+			"name":"dovStore",
+			"desc":"Fixed bug where refresh removes all sources"
+		},
+		{
 			"changes":"Added realtime changes",
 			"name":"dovStore",
 			"desc":"Pulls source changes w/o needing to reinstall source"
