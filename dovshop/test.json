@@ -40,38 +40,43 @@
 			"image": "https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/iOS.png"
 		},
 		{
+			"changes":"Fixed bugs",
+			"name":"8/12/22",
+			"desc":"Fixed bug where refresh button removed all sources"
+		},
+		{
 			"changes":"Added Realtime Changes",
-			"name":"testOne",
+			"name":"8/10/22",
 			"desc":"Can update sources w/o removing"
 		},
 		{
 			"changes":"Test Updates",
-			"name":"testOne",
+			"name":"8/10/22",
 			"desc":"Resolved minor bugs"
 		},
 		{
 			"changes":"Added Test",
-			"name":"testOne",
+			"name":"8/6/22",
 			"desc":"Added Test functionality"
 		},		
 		{
 			"changes":"Improved Stability of Test",
-			"name":"testOne",
+			"name":"8/4/22",
 			"desc":"Increased Test with loading and storing sources"
 		},
 		{
 			"changes":"Test Sources",
-			"name":"testOne",
+			"name":"7/28/22",
 			"desc":"Added Test functionality"
 		},		
 		{
 			"changes":"Fixed Test for Modals",
-			"name":"testOne",
+			"name":"7/16/22",
 			"desc":"Test issues with loading modals"
 		},
 		{
 			"changes":"Added Test Tab",
-			"name":"testOne",
+			"name":"6/5/22",
 			"desc":"Test the browse tab"
 		}
 	]
