@@ -41,42 +41,42 @@
 		},
 		{
 			"changes":"Fixed refresh button",
-			"name":"dovStore",
+			"name":"8/12/22",
 			"desc":"Fixed bug where refresh removes all sources"
 		},
 		{
 			"changes":"Added realtime changes",
-			"name":"dovStore",
+			"name":"8/10/22",
 			"desc":"Pulls source changes w/o needing to reinstall source"
 		},
 		{
 			"changes":"Minor Updates",
-			"name":"dovStore",
+			"name":"8/6/22",
 			"desc":"Resolved minor bugs"
 		},
 		{
 			"changes":"Added Changelog",
-			"name":"dovStore",
+			"name":"7/18/22",
 			"desc":"Added changelog functionality"
 		},		
 		{
 			"changes":"Improved Stability of Sources",
-			"name":"dovStore",
+			"name":"7/6/22",
 			"desc":"Increased reliability with loading and storing sources"
 		},
 		{
 			"changes":"Added Sources",
-			"name":"dovStore",
+			"name":"6/27/22",
 			"desc":"Added sources functionality"
 		},		
 		{
 			"changes":"Fixed Bugs for Modals",
-			"name":"dovStore",
+			"name":"6/9/22",
 			"desc":"Resolved issues with loading modals"
 		},
 		{
 			"changes":"Added Browse Tab",
-			"name":"dovStore",
+			"name":"5/28/22",
 			"desc":"Added the browse tab"
 		}
 	]
