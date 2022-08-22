@@ -2,18 +2,18 @@
 "selection1":[
 {
 "name":"Push, Pull, Legs (Starters)",
-"url":"https://www.muscleandstrength.com/workouts/8-week-hypertrophy-workout",
+"url":"https://wayofvod.com/liftbuddy/routines/PPL_starters.json",
 "image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/muscular-guy-doing-cable-flys.jpg?itok=cSCNyLEj"
 },
 {
 "name":"Push, Pull, Legs (Advanced)",
-"url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout",
+"url":"https://wayofvod.com/liftbuddy/routines/PPL_advanced.json",
 "image":"https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/hit3_home_workout_-_1200x630.jpg?itok=hEM4J8Pc",
 "image_url":"https://www.muscleandstrength.com/workouts/8-week-hit3-home-workout"
 },
 {
 "name":"PPL x Arnold (Powerbuilding)",
-"url":"https://www.muscleandstrength.com/workouts/4-day-barbell-only-workout",
+"url":"https://wayofvod.com/liftbuddy/routines/PPL_arnold_powerbuilding.json",
 "image":"https://cdn.muscleandstrength.com/sites/default/files/field/feature-image/workout/deadlift800.jpg",
 "image_url":"https://www.muscleandstrength.com/workouts/womens-3-day-glute-workout"
 }
